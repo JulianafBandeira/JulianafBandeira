@@ -1,3 +1,4 @@
+<h2>Olá👋🏻</h2>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianafBandeira&show_icons=true&theme=vue"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianafBandeira&layout=compact&theme=vue"/>
