@@ -1,4 +1,15 @@
-<h2>Olá👋🏻</h2>
+<h2>Olá, sou Juliana👋🏻</h2>
+
+   **Sobre  mim**
+
+-  🎓 Sistemas para internet-(IFPB)
+  
+-  👩🏻‍💻 Desenvolvimento web
+
+-  📖 Atualmente, estou me aprofundando na linguagem Java
+
+  </br>
+  
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianafBandeira&show_icons=true&theme=neon"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianafBandeira&layout=compact&theme=neon"/>
@@ -21,5 +32,7 @@
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
   
-  
 </div>
+
+
+
