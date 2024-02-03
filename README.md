@@ -6,7 +6,7 @@
   
 -  👩🏻‍💻 Desenvolvimento web
 
--  📖 Atualmente, estou me aprofundando na linguagem Java
+-  📖 Atualmente, estou desenvolvendo projetos com Java e Spring
 
   </br>
   
