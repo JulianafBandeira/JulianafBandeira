@@ -6,8 +6,7 @@
   
 -  👩🏻‍💻 Desenvolvimento web
 
--  📖 Atualmente, estou desenvolvendo projetos com Java e Spring
-
+-  🎯 Meu foco principal é o desenvolvimento com Java e Spring
   </br>
   
 <div>
