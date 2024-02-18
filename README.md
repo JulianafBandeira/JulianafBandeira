@@ -2,7 +2,7 @@
 
    **Sobre  mim**
 
--  🎓 Sistemas para internet-(IFPB)
+-  🎓 Sistemas para internet-IFPB
   
 -  👩🏻‍💻 Desenvolvimento web
 
