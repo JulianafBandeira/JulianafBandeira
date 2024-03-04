@@ -1,21 +1,23 @@
-<h2>Olá, sou Juliana👋🏻</h2>
+<p align="center">
+ <h1 align='center'>Olá, sou Juliana 👋🏻</h1>
+</p>
 
-   **Sobre  mim**
+<div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/juliana-bandeira-desenvolvedora-web"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:julianafbbarbosa@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
 
--  🎓 Sistemas para internet-IFPB
+### About me
+-  🎓 Sistemas para internet
   
 -  👩🏻‍💻 Desenvolvimento web
 
-  
+-  🎯 Foco em Java e Spring  
+
+### Tecnologias
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianafBandeira&show_icons=true&theme=highcontrast"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianafBandeira&layout=compact&theme=highcontrast"/>
-</div>
-
-
-
-<div>
-  
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -33,5 +35,8 @@
   
 </div>
 
-
-
+<br/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianafBandeira&show_icons=true&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianafBandeira&layout=compact&theme=highcontrast"/>
+</div>
