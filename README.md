@@ -9,7 +9,7 @@
   </p>
 </div>
 
-### About me
+### Sobre mim
 -  🎓 Sistemas para internet
   
 -  👩🏻‍💻 Desenvolvimento web
