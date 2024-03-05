@@ -1,5 +1,5 @@
-<p>
- <h1 align='center'>Olá, sou Juliana 👋🏻</h1>
+<p  align='center'>
+<a href='https://postimg.cc/Wqm4n8Tq' target='_blank'><img src='https://i.postimg.cc/WzCJsYy8/jb.png' border='0' alt='jb'/></a>
 </p>
 
 <div align='center'>
