@@ -1,6 +1,3 @@
-<p  align='center'>
-<a href='https://postimg.cc/Wqm4n8Tq' target='_blank'><img src='https://i.postimg.cc/WzCJsYy8/jb.png' border='0' alt='jb'/></a>
-</p>
 
 <div align='center'>
   <p align='center'>
