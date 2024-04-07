@@ -11,7 +11,7 @@
   
 -  👩🏻‍💻 Desenvolvimento web
 
--  🎯 Foco em Java e Spring  
+-  🎯 Foco em Spring e React  
 
 ### Tecnologias
 <div>
