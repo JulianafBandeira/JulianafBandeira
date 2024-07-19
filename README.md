@@ -10,6 +10,8 @@
 -  🎓 Sistemas para internet
   
 -  👩🏻‍💻 Desenvolvimento web
+  
+-  🎯 Java + React
 
 ### Tecnologias
 <div>
