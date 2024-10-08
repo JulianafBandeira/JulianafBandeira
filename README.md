@@ -15,9 +15,7 @@
   <img src="https://img.shields.io/github/stars/JulianafBandeira?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="600" height="300" alt="Programming Code GIF" />
-</div>
+
 
 ---
 
