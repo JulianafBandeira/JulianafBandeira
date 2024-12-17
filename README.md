@@ -26,7 +26,7 @@
 ### 💡 Sobre Mim
 
 - 💻 Sistemas para Internet 
-- ❤️ Apaixonada por desenvolvimento front-end e inovação
+- ❤️ Apaixonada por desenvolvimento front-end
 - 🔍 Sempre explorando novas tecnologias
 
 ---
