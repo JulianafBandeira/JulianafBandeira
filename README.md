@@ -2,55 +2,53 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juliana-bandeira-desenvolvedora-web">
-    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:julianafbbarbosa@gmail.com">
-    <img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1" alt="E-mail">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/JulianafBandeira?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/JulianafBandeira?label=Seguidores&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/JulianafBandeira?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
-
-<div align="center" style="background-color: #282c34; padding: 20px; border-radius: 10px;">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding GIF" height="200" />
-</div>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding GIF" height="180" />
+</p>
 
 ---
 
 ### 💡 Sobre Mim
 
-- 💻 Sistemas para Internet 
-- ❤️ Apaixonada por desenvolvimento front-end
-- 🔍 Sempre explorando novas tecnologias
+- 🎓 **Formação:** Sistemas para Internet  
+- 💻 **Área:** Desenvolvimento Front-end  
+- 🔎 **Curiosidade:** Sempre explorando novas tecnologias
 
 ---
 
-### 🛠️ Habilidades
+### 🛠️ Tecnologias & Ferramentas
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(50px, 1fr)); gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
 ---
 
 ### 📊 Estatísticas
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianafBandeira&show_icons=true&theme=radical" alt="Juliana's GitHub stats"/>
+  &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianafBandeira&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
+</p>
