@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo(a)! Eu sou Juliana Bandeira 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juliana-bandeira-desenvolvedora-web">
+  <a href="https://www.linkedin.com/in/juliana-bandeira-desenvolvedora-web](https://www.linkedin.com/in/juliana-bandeira-desenvolvedoraweb/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
